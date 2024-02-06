@@ -14,4 +14,4 @@ TIMELINE\
 3/11 - Complete model selection, and train a model with tuned hyperparameters\
 4/1 - Begin work on the mapping portion of the project\
 4/29 - Complete all modeling and finish work on map application\
-5/8 - Complete final paper and code revisions\
+5/8 - Complete final paper and code revisions
